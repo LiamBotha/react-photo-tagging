@@ -10,9 +10,9 @@ import promptoImg from './img/Prompto.png';
 import nierImg from './img/Nier.png';
 import StartPopup from './components/StartPopup';
 
+const photoStyle = { width: '100vw', objectFit: 'cover' };
 
 function App() {
-  const photoStyle = {width: '100vw', objectFit: 'cover'};
   let [targets, setTargets] = useState([
     {name: 'Joker', posX: 55, posY: 53, threshold: 4, img: jokerImg},
     {name: '2B', posX: 25, posY: 65, threshold: 4, img: nierImg},
@@ -22,7 +22,6 @@ function App() {
   let [curTarget, setCurTarget] = useState({id: 0 });
   let [bisStarted, setIsStarted] = useState(false);
   let [bIsCompleted, setIsCompleted] = useState(false);
-
   let [time, setTime] = useState(0);
   let [timeInterval, setTimeInterval] = useState(null);
   let [completedTime, setCompletedTime] = useState(-1);
