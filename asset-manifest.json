@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-photo-tagging/static/css/main.1bc6eab1.chunk.css",
+    "main.js": "/react-photo-tagging/static/js/main.6a0b1629.chunk.js",
+    "main.js.map": "/react-photo-tagging/static/js/main.6a0b1629.chunk.js.map",
+    "runtime-main.js": "/react-photo-tagging/static/js/runtime-main.d2060b28.js",
+    "runtime-main.js.map": "/react-photo-tagging/static/js/runtime-main.d2060b28.js.map",
+    "static/js/2.55e5cd37.chunk.js": "/react-photo-tagging/static/js/2.55e5cd37.chunk.js",
+    "static/js/2.55e5cd37.chunk.js.map": "/react-photo-tagging/static/js/2.55e5cd37.chunk.js.map",
+    "index.html": "/react-photo-tagging/index.html",
+    "static/css/main.1bc6eab1.chunk.css.map": "/react-photo-tagging/static/css/main.1bc6eab1.chunk.css.map",
+    "static/js/2.55e5cd37.chunk.js.LICENSE.txt": "/react-photo-tagging/static/js/2.55e5cd37.chunk.js.LICENSE.txt",
+    "static/media/Joker.b88beec9.png": "/react-photo-tagging/static/media/Joker.b88beec9.png",
+    "static/media/Nier.06028429.png": "/react-photo-tagging/static/media/Nier.06028429.png",
+    "static/media/Prompto.b98ae1d8.png": "/react-photo-tagging/static/media/Prompto.b98ae1d8.png",
+    "static/media/pierre-roussel-ps4-phone1.4a689505.jpg": "/react-photo-tagging/static/media/pierre-roussel-ps4-phone1.4a689505.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2060b28.js",
+    "static/js/2.55e5cd37.chunk.js",
+    "static/css/main.1bc6eab1.chunk.css",
+    "static/js/main.6a0b1629.chunk.js"
+  ]
+}
